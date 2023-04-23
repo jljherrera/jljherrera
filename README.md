@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭......after some years of deviation, just starting again the dream: Cryptography
+
 <!--
 **jljherrera/jljherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
